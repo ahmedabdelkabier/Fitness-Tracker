@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="105e476e-19e4-4710-861e-9b08459bbe00" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/fitnesstracker/ActivityResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fitnesstracker/ActivityResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fitnesstracker/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fitnesstracker/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fitnesstracker/KickBoxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fitnesstracker/KickBoxing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fitnesstracker/Running.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fitnesstracker/Running.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fitnesstracker/StrengthTraining.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fitnesstracker/StrengthTraining.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fitnesstracker/Swimming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fitnesstracker/Swimming.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fitnesstracker/Tracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fitnesstracker/Sports.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JavaFXApplication" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Yui0younn5HBg8S0i4jjldMWE7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.fitnesstracker.Main" />
+      <module name="FitnessTracker" />
+      <option name="VM_PARAMETERS" value="--module-path C:\Users\AhmadAbdulkabier\javafx-sdk-13\lib --add-modules javafx.controls,javafx.fxml" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="105e476e-19e4-4710-861e-9b08459bbe00" name="Default Changelist" comment="" />
+      <created>1583798662279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583798662279</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584136146317">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1584136146317" />
+    <state x="574" y="143" key="#com.intellij.ide.util.MemberChooser" timestamp="1584202188636">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="143" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1584202188636" />
+    <state x="518" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583802517730">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="518" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1583802517730" />
+    <state x="473" y="175" key="FileChooserDialogImpl" timestamp="1584139981862">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="473" y="175" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1584139981862" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1585079001636">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585079001636" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1585079001636">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585079001636" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1585079001636">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585079001636" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1585079001636">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585079001636" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1584210387238">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1584210387238" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1584210387237">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1584210387237" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1584210387237">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1584210387237" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1584210387237">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1584210387237" />
+    <state x="249" y="8" key="SettingsEditor" timestamp="1584029672678">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="8" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1584029672678" />
+    <state x="465" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1592152499409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="246" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592152499409" />
+    <state x="465" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1585078884957" />
+    <state x="209" y="54" key="new project wizard" timestamp="1584135893960">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="54" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1584135893960" />
+    <state x="511" y="52" key="refactoring.ChangeSignatureDialog" timestamp="1584040909860">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="511" y="52" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1584040909860" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1583800218733">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1583800218733" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1585077854672">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1585077854672" />
+  </component>
+</project>
